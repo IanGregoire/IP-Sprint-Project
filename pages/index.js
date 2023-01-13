@@ -9,10 +9,10 @@ function HomePage(props) {
   return (
     <Fragment>
       <Head>
-        <title>Max' Blog</title>
+        <title>Ian's IP Sprint Project</title>
         <meta
           name='description'
-          content='I post about programming and web development.'
+          content='I took several Udemy courses for frontend development. (Typescript and NextJS)'
         />
       </Head>
       <Hero />
